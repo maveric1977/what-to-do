@@ -9,13 +9,14 @@ An App where a user can track how much time he/she spends on average on differen
 
 ## Implementation stages
 #### Stage 1
-Only Page 2 and header in Angular
+Header and main page in Angular
+Only Page 1 without Diagram
 
 ### Stage 2
-Add Page 1 without Diagram
+Add Page 2 to edit the values
 
 ### Stage 3
-Add Diagram
+Add Diagram to page 1
 
 ### Stage 4
 Save the data on a server
